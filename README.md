@@ -29,7 +29,7 @@ Module allows to control:
 
 ### Bugs and Issues
 
-If you experience any bugs or issues, please report them in the section **Module GDPR Opt-in** of https://bugs.o3-shop.com.
+If you experience any bugs or issues, please report them in the section **Module GDPR Opt-in** of https://issues.o3-shop.com.
 
 ### Documentation 
 

@@ -96,7 +96,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - The GDPR Opt-In Module was fully ported as described in
   [modules porting guide](https://docs.oxid-esales.com/developer/en/6.0/update/eshop_from_53_to_6/modules.html).
 
-[v1.0.0]: https://github.com/o3-shop/gdpr-optin-module/releases/tag/v1.0.0
+[v1.0.0]: https://gitlab.o3-shop.com/o3/gdpr-optin-module/-/tags/v1.0.0
 [O3-Shop]: https://www.o3-shop.com/
 [v2.3.3]: https://github.com/OXID-eSales/gdpr-optin-module/compare/v2.3.2...v2.3.3
 [v2.3.2]: https://github.com/OXID-eSales/gdpr-optin-module/compare/v2.3.1...v2.3.2
