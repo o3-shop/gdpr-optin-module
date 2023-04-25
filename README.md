@@ -7,16 +7,9 @@ Module adds opt-in functionality which is required for GDPR law.
 
 System requirements and installation instructions are described in the module documentation: https://docs.o3-shop.com/modules/gdpr-optin/de/2.3/installation.html.
 
-### Compatibility
-
-* master branch for shop compilation: 6.1 and up (requires php 7.1+)
-* b-2.2.x branch for shop compilation: 6.0.2 and up to 6.1.x
-* v1.x branch for shop compilation: 5.3.7/4.10.7 or above
-
 ### Module installation via composer
 
-* **composer require o3-shop/gdpr-optin-module:^2.3.0** to install the released version compatible with O3-Shop 6.2.0 compilation
-* **composer require o3-shop/gdpr-optin-module:dev-master** to install the latest unreleased version from github
+* **composer require o3-shop/gdpr-optin-module:^1.0** to install the released version compatible with O3-Shop 1.x compilation
 
 ### Features
 
